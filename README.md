@@ -1,54 +1,54 @@
 # DeepLearniing 
 resnet 的运行结果  
-    step 0, training cost 1.37196e+11
-    step 20, training cost 117.753  
-    step 40, training cost 36.3039  
-    step 60, training cost 8.12384  
-    step 80, training cost 3.16211  
-    step 100, training cost 1.91433  
-    step 120, training cost 1.95805  
-    step 140, training cost 1.8385  
-    step 160, training cost 1.81032  
-    step 180, training cost 1.7807  
-    step 200, training cost 1.79874  
-    step 220, training cost 1.73078  
-    step 240, training cost 1.7901  
-    step 260, training cost 1.76452  
-    step 280, training cost 1.77152  
-    step 300, training cost 1.6973  
-    step 320, training cost 1.6824  
-    step 340, training cost 1.6871  
-    step 360, training cost 1.55129  
-    step 380, training cost 1.36596  
-    step 400, training cost 1.34946  
-    step 420, training cost 0.874308  
-    step 440, training cost 1.02222  
-    step 460, training cost 1.14761  
-    step 480, training cost 0.347405 
-    step 500, training cost 0.254293  
-    step 520, training cost 0.281947  
-    step 540, training cost 0.290539  
-    step 560, training cost 0.578437  
-    step 580, training cost 0.530058  
-    step 600, training cost 0.133229  
-    step 620, training cost 0.335239  
-    step 640, training cost 0.609641
-    step 660, training cost 0.297039  
-    step 680, training cost 0.558695  
-    step 700, training cost 0.631659  
-    step 720, training cost 0.387947  
-    step 740, training cost 0.136434  
-    step 760, training cost 0.208913  
-    step 780, training cost 0.106486  
-    step 800, training cost 0.0879618  
-    step 820, training cost 0.140663  
-    step 840, training cost 0.155591  
-    step 860, training cost 0.0321576  
-    step 880, training cost 0.0482099  
-    step 900, training cost 0.153577  
-    step 920, training cost 0.304375  
-    step 940, training cost 0.138238  
-    step 960, training cost 0.328786  
-    step 980, training cost 0.0123621  
-    training data accuracy 0.986111  
-    test accuracy 0.833333  
+step 0, training cost 1.37196e+11  
+step 20, training cost 117.753  
+step 40, training cost 36.3039  
+step 60, training cost 8.12384  
+step 80, training cost 3.16211  
+step 100, training cost 1.91433  
+step 120, training cost 1.95805  
+step 140, training cost 1.8385  
+step 160, training cost 1.81032  
+step 180, training cost 1.7807  
+step 200, training cost 1.79874  
+step 220, training cost 1.73078  
+step 240, training cost 1.7901  
+step 260, training cost 1.76452  
+step 280, training cost 1.77152  
+step 300, training cost 1.6973  
+step 320, training cost 1.6824  
+step 340, training cost 1.6871  
+step 360, training cost 1.55129  
+step 380, training cost 1.36596  
+step 400, training cost 1.34946  
+step 420, training cost 0.874308  
+step 440, training cost 1.02222  
+step 460, training cost 1.14761  
+step 480, training cost 0.347405 
+step 500, training cost 0.254293  
+step 520, training cost 0.281947  
+step 540, training cost 0.290539  
+step 560, training cost 0.578437  
+step 580, training cost 0.530058  
+step 600, training cost 0.133229  
+step 620, training cost 0.335239  
+step 640, training cost 0.609641
+step 660, training cost 0.297039  
+step 680, training cost 0.558695  
+step 700, training cost 0.631659  
+step 720, training cost 0.387947  
+step 740, training cost 0.136434  
+step 760, training cost 0.208913  
+step 780, training cost 0.106486  
+step 800, training cost 0.0879618  
+step 820, training cost 0.140663  
+step 840, training cost 0.155591  
+step 860, training cost 0.0321576  
+step 880, training cost 0.0482099  
+step 900, training cost 0.153577  
+step 920, training cost 0.304375  
+step 940, training cost 0.138238  
+step 960, training cost 0.328786  
+step 980, training cost 0.0123621  
+training data accuracy 0.986111  
+test accuracy 0.833333  
