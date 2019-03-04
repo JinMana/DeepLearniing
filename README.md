@@ -24,7 +24,7 @@ step 400, training cost 1.34946
 step 420, training cost 0.874308  
 step 440, training cost 1.02222  
 step 460, training cost 1.14761  
-step 480, training cost 0.347405 
+step 480, training cost 0.347405   
 step 500, training cost 0.254293     
 step 520, training cost 0.281947  
 step 540, training cost 0.290539  
@@ -32,7 +32,7 @@ step 560, training cost 0.578437
 step 580, training cost 0.530058  
 step 600, training cost 0.133229  
 step 620, training cost 0.335239  
-step 640, training cost 0.609641
+step 640, training cost 0.609641  
 step 660, training cost 0.297039       
 step 680, training cost 0.558695  
 step 700, training cost 0.631659  
